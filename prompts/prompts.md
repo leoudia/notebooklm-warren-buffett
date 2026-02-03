@@ -1,7 +1,7 @@
 
-##Prompts
+## Prompts
 
-### Retorna o Principal Investimento Da Berkshire Hathaway
+### 1. Retorna o Principal Investimento Da Berkshire Hathaway
 Qual foi o investimento de maior retorno da história de Warren Buffett?
 Explique o contexto, os critérios utilizados, o tempo de permanência e os principais aprendizados desse investimento.
 
