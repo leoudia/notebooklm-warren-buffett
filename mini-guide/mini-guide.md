@@ -1,80 +1,67 @@
-# 🎓 Mini Curso: Domine o NotebookLM
+# 🎓 Mini Curso: Domine o NotebookLM com o Caso Warren Buffett
 
-> **Objetivo:** Transformar montanhas de dados em conhecimento estruturado e formatos criativos.
+> **Objetivo:** Transformar as cartas e filosofias de Warren Buffett em conhecimento estruturado e formatos criativos.
 
 ---
 
 ## 🛠️ Módulo 1: Preparando o Terreno (Upload e Fontes)
 
-O NotebookLM só sabe o que você ensina a ele. O primeiro passo é o "grounding" (ancoragem).
+O NotebookLM será alimentado com a sabedoria do "Oráculo de Omaha".
 
 ### 1. Criando seu Notebook
 
 * Acesse o [NotebookLM](https://notebooklm.google.com/).
 * Clique em **"Novo Notebook"**.
-* Dê um nome sugestivo (ex: *Projeto Pesquisa Marte 2026*).
+* Dê o nome: **"Estratégias de Investimento: Warren Buffett"**.
 
-### 2. Tipos de Upload Suportados
+### 2. Alimentando com Fontes Reais
 
-Você pode alimentar a ferramenta de várias formas:
+Para este exemplo, você pode fazer upload de:
 
-* **Google Docs e Slides:** Conexão direta com seu Drive.
-* **PDFs e Arquivos de Texto:** Documentos locais do seu computador.
-* **Links da Web:** Cole a URL de artigos ou notícias.
-* **Texto Copiado:** Ideal para notas rápidas ou transcrições.
-
-> [!TIP]
-> **Dica de Ouro:** O limite atual é de até **50 fontes** por notebook, com cerca de 500.000 palavras cada. É espaço que não acaba mais!
+* **PDFs:** As famosas "Letters to Shareholders" (Cartas aos Acionistas) da Berkshire Hathaway.
+* **Links da Web:** Artigos da Wikipedia sobre sua biografia ou análises de portfólio de sites como CNBC/Bloomberg.
+* **Texto Copiado:** Transcrições de entrevistas famosas dele.
 
 ---
 
 ## 🔍 Módulo 2: A Arte da Busca Profunda
 
-Diferente de um chat comum, o NotebookLM foca estritamente nas suas fontes.
+Agora que o NotebookLM "leu" as cartas de Buffett, você pode extrair insights precisos.
 
 ### Como interagir:
 
-1. **Use o Chat:** Faça perguntas específicas como: *"Quais são os 3 principais argumentos contra a tese X neste documento?"*
-2. **Citações Diretas:** Note que, ao responder, ele gera **números de citação**. Clique neles para ver exatamente de qual parte do arquivo a informação veio. Isso evita as famosas "alucinações" da IA.
-3. **Filtro de Fontes:** Você pode selecionar apenas alguns documentos na barra lateral para que a busca seja feita apenas neles, ignorando o restante.
+1. **Use o Chat:** Faça perguntas como: *"Qual é o critério principal de Buffett para adquirir uma empresa, segundo as cartas da década de 90?"*
+2. **Citações Diretas:** Ao receber a resposta, clique nos números de citação. O NotebookLM abrirá o PDF exatamente na página onde ele fala sobre "Fosso Econômico" (Moat), por exemplo.
+3. **Comparação de Fontes:** Selecione a carta de 2008 e a de 2023 para perguntar: *"Como a visão dele sobre tecnologia mudou nestes dois períodos?"*
 
 ---
 
 ## 🎨 Módulo 3: Gerando Conteúdo Criativo
 
-Aqui é onde você transforma texto seco em formatos dinâmicos.
+Transforme a filosofia de investimento em outros formatos.
 
-### 🧠 1. Gerando um Mapa Mental
+### 🧠 1. Gerando um Mapa Mental (Lógica de Investimento)
 
-O NotebookLM não desenha o mapa, mas ele cria a **estrutura lógica**.
+* **Prompt:** *"Com base nas fontes, crie uma estrutura de mapa mental sobre o conceito de 'Value Investing' de Buffett. Divida em: Princípios Fundamentais, Erros a Evitar e Indicadores Financeiros."*
+* **Dica:** Peça para ele exportar em formato de lista hierárquica para facilitar a visualização.
 
-* **Prompt:** *"Com base nas fontes, crie uma estrutura hierárquica para um mapa mental sobre [Tema], dividindo em tópicos principais, secundários e exemplos."*
-* **Dica:** Peça para ele formatar em **Markdown** ou código **Mermaid** para você colar em ferramentas como o *Miro* ou *Obsidian*.
+### 🎙️ 2. Gerando um Podcast (Deep Dive Audio)
 
-### 🎙️ 2. Gerando um "Vídeo" (Audio Overview)
+* Vá em **"Notebook Guide"** e clique em **"Generate"** no Audio Overview.
+* **O que acontece:** A IA criará um diálogo entre dois especialistas discutindo os pontos altos das cartas de Buffett que você carregou. É como ouvir um resumo exclusivo da CNBC sobre o seu material.
 
-Uma das funções mais impressionantes é o **Deep Dive Audio**.
+### 📊 3. Gerando uma Apresentação para Investidores
 
-* No painel "Guia do Notebook" (Notebook Guide), clique em **"Gerar"** na seção de Podcast/Audio Overview.
-* A IA criará uma conversa ultra-realista entre dois apresentadores discutindo seu material.
-* *Uso:* Ótimo para revisar conteúdo enquanto dirige ou faz exercícios.
+* **Prompt:** *"Crie um roteiro de 8 slides para uma apresentação intitulada 'Aprendendo a investir com Buffett'. Inclua títulos, pontos-chave de cada slide e uma sugestão de gráfico baseado nos dados das cartas."*
 
-### 📊 3. Gerando uma Apresentação
+### 📝 4. Guia de Estudo "Buffettologia"
 
-* **Prompt:** *"Crie um roteiro de apresentação de 10 slides baseado nestes documentos. Para cada slide, defina um título, 3 bullet points e uma sugestão de imagem visual."*
-* O resultado pode ser copiado diretamente para o seu software de slides preferido.
-
-### 📝 4. Notas de Estudo e FAQs
-
-* Clique em **"Guia de Estudo"** para que a IA gere automaticamente um glossário, perguntas frequentes e um resumo executivo de tudo o que você carregou.
+* Use a ferramenta automática para gerar um **Glossário** com termos como *EBITDA*, *Moat* e *Compound Interest*, baseando-se em como o próprio Buffett os define nos documentos.
 
 ---
 
-## 💡 Dicas de mestre para prompts
+## 💡 Dica de Mestre para o Tema
 
-Para extrair o melhor, seja específico:
+Se você fizer o upload de uma planilha (em PDF ou texto) com o portfólio da Berkshire, você pode pedir:
 
-* **Péssimo:** "Resume isso."
-* **Excelente:** "Atue como um analista de dados. Analise os relatórios financeiros das fontes e crie uma tabela comparativa destacando o crescimento trimestral e os riscos mencionados."
-
----
+* *"Atue como um analista financeiro. Com base no portfólio atual e nos princípios das cartas, quais setores parecem ser a prioridade de Buffett agora?"*
