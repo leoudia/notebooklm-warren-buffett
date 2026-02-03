@@ -3,7 +3,7 @@
 2. Livro: Bola De Neve - Warren Buffet
 3. Livro: Essays of Warren Buffett - Lessons for Corporate America Cunningham
 
-## Links de Fontes
+## Referencias de Fontes
 - Relatório do Deep Research: A Fenomenologia do Capital: Uma Análise Exaustiva das Estratégias de Investimento e Retornos de Warren Buffett
 - "Be fearful when others are greedy and be greedy when others are fearful." – Warren Buffett | Trustnet
 - 1 Incredible Stock Warren Buffett Bought Over 30 Years Ago Is Up 150% in 3 Years, And It's About to Overtake Apple as Berkshire Hathaway's Largest Holding | The Motley Fool
