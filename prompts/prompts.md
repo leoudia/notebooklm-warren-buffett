@@ -127,3 +127,42 @@ Considerando os princípios fundamentais seguidos por Warren Buffett, simule uma
 > *   **Recompra de Ações da própria Berkshire:** Quando as ações da Berkshire (BRK.A ou BRK.B) são negociadas abaixo de **1,5x o valor contábil**, a tendência é aumentar a participação dos acionistas remanescentes através da recompra das próprias cotas.
 
 ---
+
+### 3. Aplicação no Brasil
+**Prompt**
+
+Em um cenário hipotético, aplicando a filosofia de Warren Buffett, quais ações listadas na B3 (IBOVESPA) fariam sentido compor uma carteira de longo prazo?  
+Justifique com base em fundamentos, modelo de negócio e previsibilidade.
+
+**Resultado**
+
+> Em um cenário hipotético, a aplicação da filosofia de Warren Buffett ao mercado brasileiro (B3) exigiria a seleção de empresas com **vantagens competitivas sustentáveis (moats)**, lucros previsíveis e gestões que priorizem o acionista. De acordo com as fontes e os critérios fundamentais de Buffett, as seguintes ações fariam sentido em uma carteira de longo prazo:
+
+> ### 1. Alpargatas (ALPA4) – Poder de Marca e Simplicidade
+> *   **Fundamentos e Modelo de Negócio:** A empresa detém a marca **Havaianas**, que possui um enorme **"share of mind"** e lealdade inabalável do consumidor, funcionando como uma "franquia de consumo". Buffett valoriza negócios simples que vendem produtos necessários e que possuem **poder de precificação**.
+> *   **Previsibilidade:** A Alpargatas se desfez de marcas secundárias para focar em seu núcleo de alta margem, o que aumenta a **previsibilidade dos fluxos de caixa** e o Retorno sobre o Patrimônio (ROE).
+
+> ### 2. Itaú Unibanco (ITUB4) – Fortaleza Financeira e Escala
+> *   **Fundamentos e Modelo de Negócio:** Buffett tem um histórico de investir em bancos dominantes e eficientes. O Itaú é reconhecido por sua **capacidade de gerar lucros consistentes** e possui uma operação complexa que atua como uma barreira de entrada para novos concorrentes.
+> *   **Previsibilidade:** Apesar da digitalização do setor, grandes bancos mantêm operações essenciais (como crédito estruturado e câmbio) que garantem a **perenidade das receitas** no longo prazo.
+
+> ### 3. B3 (B3SA3) – Infraestrutura e Monopólio Natural
+> *   **Fundamentos e Modelo de Negócio:** A B3 atua como uma **"ponte de pedágio"** na economia brasileira, sendo a infraestrutura central para o mercado de capitais. Buffett aprecia empresas que dominam seu setor com **baixos custos operacionais** e alta eficiência.
+> *   **Previsibilidade:** Com um bom controle de custos, a B3 consegue impulsionar lucros mesmo em cenários de volumes moderados, apresentando um **valuation atrativo** em relação à sua média histórica.
+
+> ### 4. Suzano (SUZB3) – Vantagem de Custo e Eficiência Global
+> *   **Fundamentos e Modelo de Negócio:** O Brasil possui uma vantagem competitiva natural em celulose, e a Suzano é a **produtora de menor custo global**. Buffett investe em commodities apenas quando a empresa possui uma vantagem de custo inexpugnável.
+> *   **Previsibilidade:** A empresa gera receita em dólar com custos em reais, funcionando como um **hedge natural** em um produto de demanda constante (papel e celulose).
+
+> ### 5. Equatorial (EQTL3) e Eletrobras (ELET3) – Utilidades e Fluxo de Caixa Real
+> *   **Fundamentos e Modelo de Negócio:** Estas empresas operam em setores de utilidade pública com **receitas reguladas e previsíveis**, assemelhando-se ao modelo da Berkshire Hathaway Energy. Elas oferecem o que as fontes chamam de **"bond proxies"**, com taxas internas de retorno (TIR) reais atrativas.
+> *   **Previsibilidade:** O setor elétrico é intensivo em capital, mas gera **fluxos de caixa estáveis** através de contratos de longo prazo, atendendo ao critério de Buffett de buscar negócios compreensíveis e "tediosos".
+
+> ### Critérios de Validação (O "Checklist" das Fontes)
+Para compor essa carteira, as fontes indicam que o investidor deve buscar:
+> *   **ROE Consistente:** Idealmente acima de **15%** nos últimos 10 anos.
+> *   **Baixo Endividamento:** Dívida de longo prazo que possa ser quitada com o lucro de poucos anos.
+> *   **Margem de Segurança:** Comprar apenas quando o preço de mercado estiver com desconto significativo (20% a 50%) em relação ao **valor intrínseco** estimado via fluxo de caixa descontado.
+> *   **Círculo de Competência:** Investir apenas em setores que o investidor entenda profundamente, evitando tecnologias de mudança rápida.
+
+---
