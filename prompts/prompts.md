@@ -2,9 +2,11 @@
 ## Prompts
 
 ### 1. Retorna o Principal Investimento Da Berkshire Hathaway
+**Prompt**
 Qual foi o investimento de maior retorno da história de Warren Buffett?
 Explique o contexto, os critérios utilizados, o tempo de permanência e os principais aprendizados desse investimento.
 
+**Resultado**
 > # 📈 Caso de Estudo: Apple Inc. (AAPL) — O Maior Investimento de Warren Buffett
 
 > O investimento em ações da **Apple Inc. (AAPL)** é amplamente reconhecido como o de **maior retorno financeiro nominal e maior lucro absoluto** na história de Warren Buffett e da Berkshire Hathaway.
