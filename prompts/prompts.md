@@ -3,6 +3,7 @@
 
 ### 1. Retorna o Principal Investimento Da Berkshire Hathaway
 **Prompt**
+
 Qual foi o investimento de maior retorno da história de Warren Buffett?
 Explique o contexto, os critérios utilizados, o tempo de permanência e os principais aprendizados desse investimento.
 
@@ -89,3 +90,40 @@ Explique o contexto, os critérios utilizados, o tempo de permanência e os prin
 
 > Esse desempenho transformou cada **US$ 1.000 investidos** em aproximadamente **US$ 60 milhões**, evidenciando o poder dos **juros compostos no longo prazo**.
 
+---
+
+### 2. Como fazer Gestão do Portfólio de Ações
+**Prompt**
+
+Considerando os princípios fundamentais seguidos por Warren Buffett, simule uma revisão de portfólio:  
+- Quais tipos de ativos ele tenderia a reduzir ou liquidar?  
+- Quais empresas buscaria em novas aquisições e suas características?  
+- Em quais posições consolidadas faria aumento de participação?
+
+**Resultado**
+
+> Com base na filosofia de investimento e nas movimentações recentes da Berkshire Hathaway descritas nas fontes, uma revisão de portfólio simulada sob a ótica de Warren Buffett seguiria os critérios de **valor intrínseco**, **vantagem competitiva** e **disciplina de valuation**.
+
+> ### 1. Ativos que ele tenderia a reduzir ou liquidar
+
+> *   **Ações com Valuation Esticado:** Buffett reduz posições quando o preço de mercado excede significativamente o valor intrínseco estimado. Um exemplo real e recente é a **Apple (AAPL)**, cuja participação foi reduzida em cerca de **75%** entre 2024 e 2025, pois Buffett considerou que o múltiplo de preço/lucro (P/L) de 33x estava caro frente às projeções de crescimento mais baixas.
+> *   **Empresas com "Fossos" (Moats) em Erosão:** Ele tende a liquidar negócios que perderam sua vantagem competitiva duradoura ou que enfrentam mudanças estruturais irreversíveis. As fontes citam a intenção de sair totalmente da **Kraft Heinz**, uma vez que a empresa enfrenta mudanças nas preferências dos consumidores e perda de poder de marca.
+> *   **Investimentos do tipo "Bituca de Charuto":** Buffett abandonou a estratégia de comprar empresas medíocres apenas por estarem baratas, preferindo agora liquidar esses ativos caso não gerem retornos sobre o capital superiores à média.
+> *   **Setores com Alta Intensidade de Capital e Baixo Retorno:** Empresas que exigem constantes reinvestimentos (Capex de manutenção) apenas para permanecerem competitivas, sem gerar crescimento real de caixa para os acionistas, são candidatas à venda.
+
+> ### 2. Características e tipos de empresas para novas aquisições
+
+> *   **Fosso Econômico Duradouro (Wide Moat):** A busca principal é por "castelos econômicos" protegidos por **poder de marca**, efeitos de rede, vantagens de custo ou altos custos de troca para o cliente.
+> *   **Geração de "Lucro do Proprietário" (Owner Earnings):** Buffett procura empresas que geram fluxos de caixa consistentes e previsíveis após as despesas de capital necessárias.
+> *   **Gestão de Alta Integridade e Competência:** Ele busca líderes que pensam e agem como **parceiros-proprietários**, focados na alocação racional de capital e que não sigam o "imperativo institucional" de imitar competidores.
+> *   **Expansão do Círculo de Competência para Tech:** Embora historicamente avesso à tecnologia, a entrada na **Alphabet (Google)** em 2025 sinaliza a busca por empresas de tech que funcionam como **infraestrutura digital** com fortes efeitos de rede (Search e YouTube).
+> *   **Negócios Compreensíveis e "Tediosos":** Buffett continua valorizando empresas de setores simples, como seguros, varejo de utilidades, energia e bens de consumo, onde o futuro é mais previsível.
+
+> ### 3. Posições consolidadas onde faria aumento de participação
+
+> *   **Empresas que realizam Recompras de Ações:** Buffett aprecia quando companhias de alta qualidade, como **Coca-Cola** e **American Express**, usam o excesso de caixa para recomprar as próprias ações abaixo do valor intrínseco, o que aumenta a participação da Berkshire sem custo adicional.
+> *   **Arbitragem Global de Baixo Custo:** Um movimento estratégico recente é o aumento de participação nas cinco **casas de comércio japonesas (Sogo Shosha)**, onde ele utiliza dívida barata em ienes para capturar rendimentos de dividendos superiores, visando atingir cerca de **10%** de participação em cada uma.
+> *   **A "Nova" Maior Holding (American Express):** Com a redução da Apple, a **American Express (AXP)** deve se tornar a maior posição acionária do portfólio de ações listadas, sendo considerada uma "holding eterna" devido ao seu modelo de negócios resiliente e marca de luxo.
+> *   **Recompra de Ações da própria Berkshire:** Quando as ações da Berkshire (BRK.A ou BRK.B) são negociadas abaixo de **1,5x o valor contábil**, a tendência é aumentar a participação dos acionistas remanescentes através da recompra das próprias cotas.
+
+---
